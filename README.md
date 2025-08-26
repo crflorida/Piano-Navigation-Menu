@@ -1,36 +1,20 @@
-# 🎹 Piano Navigation Menu  
-
-An interactive **piano-inspired website navigation menu** built with **HTML, CSS, and JavaScript**.  
+🎹 Piano Navigation Menu
+An interactive piano-inspired website navigation menu built with HTML, CSS, and JavaScript.
 Each piano key doubles as a navigation link and plays a musical note instantly.
 
----
+✨ Features
+Piano-style keys act as clickable menu items.
+Instant audio playback using the Web Audio API.
+Works with both keyboard input and mouse/touch.
+Smooth scrolling to sections.
+Responsive layout for different screen sizes.
 
-## ✨ Features
-- Piano-style keys act as clickable menu items.  
-- Instant audio playback using the **Web Audio API**.  
-- Works with both **keyboard input** and **mouse/touch**.  
-- Smooth scrolling to sections.  
-- Responsive layout for different screen sizes.  
+📂 Project Structure
+Piano-Navigation-Menu/ │── index.html # Main page │── piano2/ # CSS + JS for piano │── tunes/ # Audio files (a.wav, w.wav, etc.) │── css/ # General styles │── js/ # Supporting scripts │── LICENSE # MIT License │── README.md # Project documentation
 
----
+🚀 Getting Started
 
-## 📂 Project Structure
-
-Piano-Navigation-Menu/
-│── index.html # Main page
-│── piano2/ # CSS + JS for piano
-│── tunes/ # Audio files (a.wav, w.wav, etc.)
-│── css/ # General styles
-│── js/ # Supporting scripts
-│── LICENSE # MIT License
-│── README.md # Project documentation
-
-
----
-
-## 🚀 Getting Started
 1. Clone the repository
-```bash
 git clone https://github.com/YourUsername/Piano-Navigation-Menu.git
 cd Piano-Navigation-Menu
 
