@@ -3,6 +3,9 @@
 An interactive **piano-inspired website navigation menu** built with **HTML, CSS, and JavaScript**.  
 Each piano key doubles as a navigation link and plays a musical note instantly.
 
+WATCH DEMONSTRATION HERE:
+https://youtu.be/E9U5Ux4304M
+
 ---
 
 ## ✨ Features
